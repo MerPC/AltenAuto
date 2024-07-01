@@ -49,8 +49,9 @@ After downloading the repository on your local machine, run the test in the term
 ```
 behave
 ```
+A **reports** folder will be created.
 It will create a **test_results.csv** file into the **reports** folder. The results will be added with each execution. 
-A **screenshots** file will be created into the **reports** folder as well where the evidence will be stored by date/scenario as screenshots.
+A **screenshots** file will be created into the **reports** folder as well, where the evidence will be stored by date/scenario as screenshots.
 
 ### Author:
 Mercedes Pérez [MerPC](https://github.com/MerPC)
